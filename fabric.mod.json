@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "customhandmodel",
+	"version": "1.0.0",
+	"name": "Custom Hand Model",
+	"description": "A mod to fully customize your first-person hands, item positions, and combat animations. Refreshed version of DulkirMod.",
+	"authors": [
+		"j4top"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/customhandmodel/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"me.visoxd.customhandmodel.CustomHandModel"
+		]
+	},
+	"mixins": [
+		"customhandmodel.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

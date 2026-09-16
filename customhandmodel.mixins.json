@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "me.visoxd.customhandmodel.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"HeldItemRendererMixin",
+		"LivingEntityMixin",
+		"PlayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
