@@ -4,6 +4,8 @@
 
 Inspired by the custom animation system from DulkirMod, Custom Hand Model focuses entirely on making your first-person gameplay look exactly the way you want it to.
 
+<img width="128" height="128" alt="icon png" src="https://github.com/user-attachments/assets/40a39cf7-33fb-4a23-b7ac-4e93a51d8391" />
+
 ## ✦ Features ✦ 
 ### Custom Item Positions
 
